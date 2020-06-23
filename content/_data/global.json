@@ -1,10 +1,10 @@
 {
   "title": "Portfolio Starter",
   "lang": "en-gb",
-  "footer": "Built with [Portfolio Starter](https://portfolio-starter.sb-ph.com) (v{{ pkg.version }}) by [Piper Haywood](https://piperhaywood.com) and [Sam Baldwin](https://sambaldwin.info)",
-  "url": "https://portfolio-starter.sb-ph.com",
+  "footer": "Built with love and [Portfolio Starter] (https://portfolio-starter.sb-ph.com) (v{{ pkg.version }}) by [Piper Haywood](https://piperhaywood.com) and [Sam Baldwin](https://sambaldwin.info)",
+  "url": "https://Luby.design",
   "author": {
-    "name": "Portfolio Starter",
-    "email": "mail@sb-ph.com"
+    "name": "Ben Luby UX Designer",
+    "email": "Ben @ luby. design"
   }
 }
