@@ -3,7 +3,7 @@ layout: page
 title: About
 eleventyNavigation:
   key: About
-  order: 1
+  order: 0
 ---
 
  Welcome, Earthling! 
