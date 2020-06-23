@@ -12,7 +12,7 @@ eleventyNavigation:
 
  This site is a work in progress. It’s a great way for me to learn HTML, CSS, and basic Javascript so I can manage things as independently as possible. And also so I can work better with developers. 
 
-I am using:
+To publish this site I am using:
 - [GitHub](https://github.com/) for version control
 - [Netlify](https://netlify.com) for hosting my static site. Free and fast. 
 - [Portfolio Starter](https://portfolio-starter.sb-ph.com/) which uses [Eleventy](11ty.dev) for a simple accessible portfolio template to kick start my site
