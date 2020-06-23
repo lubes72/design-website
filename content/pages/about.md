@@ -6,11 +6,11 @@ eleventyNavigation:
   order: 1
 ---
 
- Welcome! 
+ Welcome, Earthling! 
 
  I am Ben Luby. I’m a UX designer with a focus on ethical, accessibile, and sustainable products and services.
 
- This site is a work in progress. It’s a great way for me to learn HTML, CSS, and basic Javascript so I can manage things as independently as possible. And also so I can work better with developers. 
+ This site is a work in progress. It’s a great way for me to learn HTML, CSS, and basic Javascript so I can manage things as independently as possible. I’m hoping this will help me work better with developers. 
 
 To publish this site I am using:
 - [GitHub](https://github.com/) for version control
