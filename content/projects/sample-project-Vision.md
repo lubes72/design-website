@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Sample project 1
+title: Vision Libraries
 dateEnd: 2020-04-05
 media:
   - type: image

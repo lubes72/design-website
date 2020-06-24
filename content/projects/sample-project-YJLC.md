@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Sample project 2
+title: Youth Justice Law Council
 dateEnd: 2020-04-04
 media:
   - type: image
