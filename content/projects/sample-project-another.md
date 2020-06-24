@@ -1,5 +1,5 @@
 ---
-title: Muybridge
+title: Yet another content project
 layout: project
 dateStart: 1830-04-09
 dateEnd: 1904-05-08

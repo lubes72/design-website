@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Sample project 4
+title: Action Duchenne
 dateEnd: 2020-04-02
 media:
   - type: image
