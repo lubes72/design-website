@@ -1,10 +1,10 @@
 {
-  "title": "Ben Luby - UX Design, Accessibility, Content Design",
+  "title": "Ben Luby - UX and Content Design",
   "lang": "en-gb",
   "footer": "Built with love and [Portfolio Starter](https://portfolio-starter.sb-ph.com) (v{{ pkg.version }}) by Ben Luby, [Piper Haywood](https://piperhaywood.com) and [Sam Baldwin](https://sambaldwin.info)",
   "url": "https://Luby.design",
   "author": {
     "name": "Ben Luby UX Designer",
-    "email": "Ben @ luby. design"
+    "email": "ben @ luby. design"
   }
 }
