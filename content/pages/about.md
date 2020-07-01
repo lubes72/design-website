@@ -5,17 +5,25 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-Vhgvmjhvmjyvmjhv
-Blah blah blah...uhuhuh
 
- You have arrived at the site of Ben Luby.
+Welcome! This is the latest About file. 
 
- I am a designer with an interest in ethical, accessibile, and sustainable tech.
+I am Ben Luby, a UX designer with a focus on ethical, accessibile, and sustainable products and services. 
 
- This is a work in progress.
+This site is a work in progress.
 
- I am currently learning HTML, CSS, and basic Javascript so I can manage my own site.
+I am currently learning HTML, CSS, and basic Javascript so I can manage things as independently as possible.
 
- I'm also learning how GitHub, Netlify and Atom all work together so please be patient.
+To publish this site I am using:
+- [GitHub](github.com) for version control
+- [Netlify](netlify.com) for hosting my static site. Free and fast. 
+- [Portfolio Starter](https://portfolio-starter.sb-ph.com/) which uses [Eleventy](11ty.dev) for a simple accessible portfolio template to kick start my site
+- [Atom](https://atom.io/) for Mac for code. Simpler to learn than say, Visual Code Studio. 
+- [Working Copy](https://workingcopyapp.com/) github client for iOS. There is a github app but it lacks features like being able to edit and commit. Weird. 
+- [IA Writer](https://ia.net/writercom/) for iOS. Markdown editing. 
 
- Eventually I will be using this site as a blog and portfolio for my work. But first I’m exploring how I can all of this from an iPad. If anyone has any good workflows using IA Writer then please let me know via @lubes on Twitter. 
+Please be patient with the progress. From small acorns mighty oaks can grow. 
+
+Eventually I will be using this site as a blog and portfolio for my work. This might involve [microblog](https://micro.blog/). 
+ 
+But first I’m exploring how I can do all of this from an iPad. @lubes on Twitter. 
