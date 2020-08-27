@@ -1,7 +1,7 @@
 
 ---
 layout: page
-title: Aboot
+title: new page
 eleventyNavigation:
   key: New
   order: 2
