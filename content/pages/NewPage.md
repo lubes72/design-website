@@ -4,12 +4,8 @@ layout: page
 title: new page
 eleventyNavigation:
   key: New
-  order: 3
+  order: 2
 ---
-
-
-
-
 
 
 
