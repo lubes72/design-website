@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coming soon&hellip;
+title: First post
 date: 2020-08-27 15:00:00
 ---
 
