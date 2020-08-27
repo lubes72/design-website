@@ -3,8 +3,8 @@
 layout: page
 title: Aboot
 eleventyNavigation:
-  key: About
-  order: 3
+  key: New
+  order: 2
 ---
 
 
@@ -13,4 +13,4 @@ eleventyNavigation:
 
 
 
-New about page
+New about page for shits and giggles
