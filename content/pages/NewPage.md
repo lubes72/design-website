@@ -1,16 +1,12 @@
 
 ---
 layout: page
-title: Aboot
+title: new page
 eleventyNavigation:
-  key: About
-  order: 3
+  key: New
+  order: 2
 ---
 
 
 
-
-
-
-
-New about page
+New about page for shits and giggles
